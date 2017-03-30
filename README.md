@@ -1,2 +1,3 @@
-# mathematics-group
-it's a cooperation gourp of mathematical modeling.
+## mathematics-group
+It's a cooperation gourp of mathematical modeling.
+I'am sure that we will win.
