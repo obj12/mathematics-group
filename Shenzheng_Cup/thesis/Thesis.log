@@ -1,10 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.4.16)  17 MAY 2017 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.4.16)  17 MAY 2017 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/Thesis.tex
-(c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/Thesis.tex
+**c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/thesis/Thesis
+.tex
+
+(c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/thesis/Thesis.
+tex
 LaTeX2e <2017/01/01> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (c:/texlive/2016/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1084,8 +1087,8 @@ C70/rm/m/n/10.53937/76 � \C70/rm/m/n/10.53937/53 a \C70/rm/m/n/10.53937/98 ^^?
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 28.
 
-c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/Thesis.tex:30: 
-Missing { inserted.
+c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/thesis/Thesis.t
+ex:30: Missing { inserted.
 <to be read again> 
                    }
 l.30 播放阶段平均速率: $v^{_}
@@ -1095,8 +1098,8 @@ You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/Thesis.tex:30: 
-Missing } inserted.
+c:/Users/84338/Documents/GitHub/mathematics-group/Shenzheng_Cup/thesis/Thesis.t
+ex:30: Missing } inserted.
 <inserted text> 
                 }
 l.30 播放阶段平均速率: $v^{_} $
@@ -1114,13 +1117,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 13643 strings out of 493013
- 256753 string characters out of 6136993
+ 13645 strings out of 493013
+ 256798 string characters out of 6136993
  281249 words of memory out of 5000000
- 16787 multiletter control sequences out of 15000+600000
+ 16789 multiletter control sequences out of 15000+600000
  50035 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,6n,56p,10496b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,6n,56p,10503b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/s
 imhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS
 /fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:/WINDOWS/fonts/simhei.ttf><c:
@@ -1167,7 +1170,7 @@ ic/amsfonts/cm/cmmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on Thesis.pdf (3 pages, 493854 bytes).
+Output written on Thesis.pdf (3 pages, 494504 bytes).
 PDF statistics:
  540 PDF objects out of 1000 (max. 8388607)
  353 compressed objects within 4 object streams
