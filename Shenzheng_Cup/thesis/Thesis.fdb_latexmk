@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1495013488 "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\Thesis.tex" "Thesis.pdf" "Thesis" 1495013487
-  "Thesis.aux" 1495013326 1624 fdb19b05c08e74c4497b13a048821e2f ""
-  "Thesis.tex" 1495013484 3961 befbf5be599889bda6dcce350872114f ""
+["pdflatex"] 1495017272 "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\thesis\Thesis.tex" "Thesis.pdf" "Thesis" 1495017272
+  "Thesis.aux" 1495013491 1624 fdb19b05c08e74c4497b13a048821e2f ""
+  "Thesis.tex" 1495017271 4181 c28fa139ce1e3200147ec49575ae67f1 ""
   "c:/WINDOWS/fonts/simhei.ttf" 1468708409 9751720 3bf58f047d1440be4baad579495c0f9e ""
   "c:/WINDOWS/fonts/simsun.ttc" 1468669327 18214356 a29228145edd16e435fb63c20b062ee5 ""
   "c:/Windows/Fonts/msyh.ttc" 1468669326 23607740 6261f6d67eae3af2c2b2903fdc30b73b ""
@@ -201,8 +201,8 @@
   "c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1492325909 2373944 dee8225b8c4e09d7acdabed2f12427fd ""
   "c:/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1492326034 4047359 d41d500d1377c5840477cd0f3bdc4368 ""
   "c:/texlive/2016/texmf.cnf" 1492325886 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\Thesis.tex" 1495013484 3961 befbf5be599889bda6dcce350872114f ""
+  "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\thesis\Thesis.tex" 1495017271 4181 c28fa139ce1e3200147ec49575ae67f1 ""
   (generated)
-  "Thesis.aux"
   "Thesis.log"
   "Thesis.pdf"
+  "Thesis.aux"
