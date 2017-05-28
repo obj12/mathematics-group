@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1495856157 "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\thesis\rewriting.tex" "rewriting.pdf" "rewriting" 1495856160
+["pdflatex"] 1495954793 "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\thesis\rewriting.tex" "rewriting.pdf" "rewriting" 1495954798
   "c:/WINDOWS/fonts/simhei.ttf" 1468708409 9751720 3bf58f047d1440be4baad579495c0f9e ""
   "c:/WINDOWS/fonts/simsun.ttc" 1468669327 18214356 a29228145edd16e435fb63c20b062ee5 ""
   "c:/Windows/Fonts/msyh.ttc" 1468669326 23607740 6261f6d67eae3af2c2b2903fdc30b73b ""
@@ -34,7 +34,6 @@
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei54.tfm" 1492325859 1172 d48fa656debc44b54635777f72473a7c ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei56.tfm" 1492325859 1172 3d70386494675a81e9a6697b900ec8a8 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei57.tfm" 1492325859 1172 22fcff286e20a86fd370e6e42f5ce3ce ""
-  "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei59.tfm" 1492325857 1172 cb2089a3c8bd5826b7666fffdf326cbc ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5a.tfm" 1492325859 1172 3a7924915103bffb10655ca1e9cf7138 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5e.tfm" 1492325858 1172 43d03c144e7fffa57074d64aa459c451 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5f.tfm" 1492325857 1172 7048f0a8b693444590781debe54eecbd ""
@@ -136,7 +135,6 @@
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong96.tfm" 1492325864 1172 97abce3faa5097f1401cb707f6f69600 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong97.tfm" 1492325863 1172 3322410a0eee91e13e02457b09378209 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong98.tfm" 1492325864 1172 0d85b1f7b78508ff1f0a5ef94e0aaca9 ""
-  "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong99.tfm" 1492325864 1172 445e3c81b2f1f84601e454216cbde866 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9a.tfm" 1492325864 1172 37a3cd36cf03e67f393bee80b1370d05 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9e.tfm" 1492325863 1172 e797949130fb017e573d6826989dff50 ""
   "c:/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongff.tfm" 1492325862 1172 156175f4eaa9daea4e21b890ac9fafb8 ""
@@ -231,10 +229,10 @@
   "c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1492325909 2373944 dee8225b8c4e09d7acdabed2f12427fd ""
   "c:/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1492326034 4047359 d41d500d1377c5840477cd0f3bdc4368 ""
   "c:/texlive/2016/texmf.cnf" 1492325886 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\thesis\rewriting.tex" 1495856150 13645 08516c357556bc85aa65695775cfd99c ""
-  "rewriting.aux" 1495856158 2069 ac2e363173dd172e2ddcf176117ebdad ""
-  "rewriting.tex" 1495856150 13645 08516c357556bc85aa65695775cfd99c ""
+  "c:\Users\84338\Documents\GitHub\mathematics-group\Shenzheng_Cup\thesis\rewriting.tex" 1495954787 13426 bbb62d9870ff3833837cf58b29a38a71 ""
+  "rewriting.aux" 1495954795 1987 f807d09e1f7771a67bfe68528c038b4d ""
+  "rewriting.tex" 1495954787 13426 bbb62d9870ff3833837cf58b29a38a71 ""
   (generated)
-  "rewriting.aux"
-  "rewriting.pdf"
   "rewriting.log"
+  "rewriting.pdf"
+  "rewriting.aux"
